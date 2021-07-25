@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+.container {padding: 12px 24px; margin-left: 120px;}
+.wrapper {padding: 32px 16px; max-width: 1020px; margin: auto;}
+.bt {border: none; background-color: #fff; padding: 14px 24px; font-size: 15px; font-family: 'Montserrat', sans-serif;}
+.bt:hover {background-color: #ccc; cursor: pointer;}
+.bt-down {margin-bottom: 48px;}
+.pr {background-color: #fff; text-align: center; color: #000;
+padding: 20px 0;}
+.price-wp .pr:nth-child(1) {border-bottom: 1px solid #ccc;}
+.price-wp .pr:nth-child(2) {border-bottom: 1px solid #ccc;}
+.price-wp .pr:nth-child(3) {border-bottom: 1px solid #ccc;}
+.price-wp .pr:nth-child(4) {border-bottom: 1px solid #ccc;}
+.price-wp .pr:nth-child(5) {border-bottom: 1px solid #ccc;}
+.price-wp .pr:nth-child(6) {border-bottom: 1px solid #ccc;}
