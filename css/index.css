@@ -1,0 +1,69 @@
+html, body {height: 5000px; font-family: 'Montserrat', sans-serif; font-size: 15px; color: #fff;
+background-color: #000;}
+
+/*********** header-wrapper ************/
+.header-wrapper {background-color: #222; width: 120px; height: 100%; position: fixed; z-index: 999	;}
+.header-wrapper a {display: block;}
+.header-wrapper .navi-wp .navi {padding: 14px 24px; text-align: center;}
+.header-wrapper .navi-wp .navi:hover {background-color: #000;}
+.header-wrapper .navi-wp .navi:nth-child(1) {background-color: #000;}
+.header-wrapper .navi-wp .navi:nth-child(1):hover {background-color: #ddd; color: #000;}
+.header-wrapper .navi-wp .navi .fa {font-size: 30px; margin-bottom: 18px;}
+.header-wrapper .navi-wp .navi p.title {font-size: 12px; margin-bottom: 16px;}
+
+/*********** container ************/
+/*********** main-wrapper ************/
+.main-wrapper .wrapper  {text-align: center;}
+.main-wrapper .wrapper h1.title {font-size: 64px; padding: 28px 0; margin-bottom: 10px;}
+.main-wrapper .wrapper h3.title {font-size: 15px; margin-bottom: 20px;}
+
+
+/*********** name-wrapper ************/
+.name-wrapper .wrapper h2.title {font-size: 30px; padding-bottom: 24px; margin-bottom: 20px; border-bottom: 1px solid #ccc; max-width: 200px;}
+.name-wrapper .wrapper p.content {color: #777; text-align: justify; line-height: 1.5; margin-bottom: 36px;}
+.name-wrapper h3.title {font-size: 24px; margin-bottom: 36px;}
+
+/*********** skill-wrap ************/
+.skill-wrap {margin-bottom: 36px;}
+.skill-wrap .skill-wp {margin-bottom: 20px;}
+.skill-wrap .skill-wp .skill-name{margin-bottom: 20px; color: #777; letter-spacing: 4px;}
+.skill-wrap .skill-wp .skills {background-color: #fff;}
+.skill-wrap .skill-wp .skills .skill {background-color: #555;
+padding: 14px;}
+.skill-wrap .skill-wp:nth-child(1) .skills .skill {width: 95%;}
+.skill-wrap .skill-wp:nth-child(2) .skills .skill {width: 85%;}
+.skill-wrap .skill-wp:nth-child(3) .skills .skill {width: 80%;}
+
+/************* prj-wrap ***********/
+.prj-wrap {background-color: #fff; padding: 32px 0; margin-bottom: 30px;}
+.name-wrapper .wrapper .prj-wp {float: left; width: 25%;}
+.name-wrapper .wrapper .prj-wp h3.title	{color: #000; text-align: center; margin-bottom: 12px;}
+.name-wrapper .wrapper .prj-wp p.content {color: #000; text-align: center; margin-bottom: 0; line-height: 1; font-size: 14px;}
+
+/*********** price-wrap ************/
+.name-wrapper .wrapper .title.title-price {margin-bottom: 24px;}
+.price-wrap {}
+.price-wrap .price-wp {float: left; width: 48%; opacity: .65;}
+.price-wrap .price-wp .pr-title {background-color: #555; color: #fff;
+padding: 40px 0;}
+.price-wrap .price-wp .pr5 {padding: 30px;}
+.price-wrap .price-wp .pr5 .pr5-1 {margin-bottom: 10px; font-size: 28px;}
+.price-wrap .price-wp .pr5 .pr5-2 {color: #777;}
+.price-wrap .price-wp .pr6 {padding: 24px;}
+.price-wrap .price-wp .pr6 .bt-sign {border: none;}
+
+/*********** reputation-wrap ************/
+
+
+
+/*********** photo-wrapper ************/
+
+
+
+/*********** contact-wrapper ************/
+
+
+
+/*********** footer-wrapper ************/
+
+
